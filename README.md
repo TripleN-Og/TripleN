@@ -1,5 +1,3 @@
-# TripleN's Dev Card
-
 ## Hi, I'm TripleN
 
 **Bot Developer**
