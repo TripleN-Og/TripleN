@@ -17,8 +17,7 @@ Building reliable, scalable, and feature-rich Discord bots with clean architectu
 
 ## Connect
 
-- 🧩 Portfolio: https://your-portfolio.com
-- 💬 Discord: triplen
+- 💬 Discord: @TripleN
 
 ---
 
@@ -34,8 +33,6 @@ Building reliable, scalable, and feature-rich Discord bots with clean architectu
 
 - Node.js
 - Discord.js
-- Express.js
-- Fastify
 
 ### Databases
 
@@ -46,7 +43,6 @@ Building reliable, scalable, and feature-rich Discord bots with clean architectu
 
 - Git
 - GitHub
-- PNPM
 - NPM
 - Visual Studio Code
 
