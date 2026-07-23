@@ -17,7 +17,7 @@ Building reliable, scalable, and feature-rich Discord bots with clean architectu
 
 ## Connect
 
-- 💬 Discord: @TripleN
+- 💬 Discord: TripleN (triplen.core)
 
 ---
 
